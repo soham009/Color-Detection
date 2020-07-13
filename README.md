@@ -1,0 +1,1 @@
+A Simple Color Dector in Python.
